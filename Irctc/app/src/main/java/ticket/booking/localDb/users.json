@@ -1,0 +1,345 @@
+[
+  {
+    "name": "MihirShrestha",
+    "password": "12345",
+    "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+    "tickets_booked": [
+      {
+        "ticket_id": "your_ticket_id",
+        "user_id": "abcdefgh",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "date_of_travel": "2023-12-08T18:30:00Z",
+        "train": {
+          "train_id": "bacs",
+          "train_no": "12345",
+          "seats": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": null,
+          "stations": [
+            "Bangalore",
+            "Jaipur",
+            "Delhi"
+          ],
+          "train_info": "Train ID: bacs Train No: 12345"
+        },
+        "row": "0",
+        "col": "0",
+        "ticket_info": "Ticket ID: your_ticket_id belongs to User abcdefgh from Bangalore to Delhi on 2023-12-08T18:30:00Z on Train bacs at Seat Row 0, Col 0"
+      }
+    ],
+    "user_id": "abcdefgh"
+  },
+  {
+    "name": "rahul",
+    "password": "hhbb11",
+    "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+    "tickets_booked": [],
+    "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+  },
+  {
+    "name": "akash",
+    "password": "akak1234",
+    "hashed_password": "$2a$10$kzmlKfdsVLELPToRLXPG8OJvp1w2cvCTI6UalHhPCeIWE/pJQdmTy",
+    "tickets_booked": [
+      {
+        "ticket_id": "256c53e8-0a1b-4d24-9960-0a3ad029e255",
+        "user_id": "9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc",
+        "source": "delhi",
+        "destination": "jaipur",
+        "date_of_travel": "2025-05-03",
+        "train": {
+          "train_id": "T123",
+          "train_no": null,
+          "seats": [
+            [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": {
+            "delhi": "10:00:00",
+            "jaipur": "13:00:00",
+            "bangalore": "20:00:00"
+          },
+          "stations": [
+            "delhi",
+            "jaipur",
+            "bangalore"
+          ],
+          "train_info": "Train ID: T123 Train No: null"
+        },
+        "row": "0",
+        "col": "0",
+        "ticket_info": "Ticket ID: 256c53e8-0a1b-4d24-9960-0a3ad029e255 belongs to User 9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc from delhi to jaipur on 2025-05-03 on Train T123 at Seat Row 0, Col 0"
+      },
+      {
+        "ticket_id": "bfd821ec-8b78-4714-8505-840d4072f32d",
+        "user_id": "9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc",
+        "source": "bangalore",
+        "destination": "jaipur",
+        "date_of_travel": "2025-05-03",
+        "train": {
+          "train_id": "bac",
+          "train_no": null,
+          "seats": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+          },
+          "stations": [
+            "bangalore",
+            "jaipur",
+            "delhi"
+          ],
+          "train_info": "Train ID: bac Train No: null"
+        },
+        "row": "0",
+        "col": "0",
+        "ticket_info": "Ticket ID: bfd821ec-8b78-4714-8505-840d4072f32d belongs to User 9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc from bangalore to jaipur on 2025-05-03 on Train bac at Seat Row 0, Col 0"
+      },
+      {
+        "ticket_id": "216e9ed6-67e7-4745-ae72-08289381aa6b",
+        "user_id": "9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc",
+        "source": "jaipur",
+        "destination": "delhi",
+        "date_of_travel": "2025-05-03",
+        "train": {
+          "train_id": "bac",
+          "train_no": null,
+          "seats": [
+            [
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": {
+            "bangalore": "13:50:00",
+            "jaipur": "13:50:00",
+            "delhi": "13:50:00"
+          },
+          "stations": [
+            "bangalore",
+            "jaipur",
+            "delhi"
+          ],
+          "train_info": "Train ID: bac Train No: null"
+        },
+        "row": "0",
+        "col": "0",
+        "ticket_info": "Ticket ID: 216e9ed6-67e7-4745-ae72-08289381aa6b belongs to User 9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc from jaipur to delhi on 2025-05-03 on Train bac at Seat Row 0, Col 0"
+      }
+    ],
+    "user_id": "9065fceb-8cb9-43ee-9ad0-8c22ba71c8fc"
+  },
+  {
+    "name": "akash",
+    "password": "akak1234",
+    "hashed_password": "$2a$10$yZHV8oCPKGCUod9dx10OnuBxgzdrH4M2b1GW7Rcfxm0K5K2q95.Lu",
+    "tickets_booked": [],
+    "user_id": "a02abd7d-955d-4bf8-a22c-4eba56ba6bce"
+  },
+  {
+    "name": "meheer",
+    "password": "meh1234",
+    "hashed_password": "$2a$10$ihZPiJffTbf5ckruc8Ov1e8oVY0N6QuP85R0lixSK3.rkBwQPBQfC",
+    "tickets_booked": [
+      {
+        "ticket_id": "18d9462c-9b5f-4bf3-b1f5-53a2cf7df38a",
+        "user_id": "b1c70898-27a7-4f0a-abba-49dde5ea6370",
+        "source": "delhi",
+        "destination": "jaipur",
+        "date_of_travel": "2025-08-17",
+        "train": {
+          "train_id": "T123",
+          "train_no": null,
+          "seats": [
+            [
+              1,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": {
+            "delhi": "10:00:00",
+            "jaipur": "13:00:00",
+            "bangalore": "20:00:00"
+          },
+          "stations": [
+            "delhi",
+            "jaipur",
+            "bangalore"
+          ],
+          "train_info": "Train ID: T123 Train No: null"
+        },
+        "row": "1",
+        "col": "2",
+        "ticket_info": "Ticket ID: 18d9462c-9b5f-4bf3-b1f5-53a2cf7df38a belongs to User b1c70898-27a7-4f0a-abba-49dde5ea6370 from delhi to jaipur on 2025-08-17 on Train T123 at Seat Row 1, Col 2"
+      }
+    ],
+    "user_id": "b1c70898-27a7-4f0a-abba-49dde5ea6370"
+  },
+  {
+    "name": "heer",
+    "password": "heer1234",
+    "hashed_password": "$2a$10$uRs9FGlcKtJgKOgTK1YEnuTkYsNTKYMRaFzFUCfLGM67qiQCI0hE6",
+    "tickets_booked": [],
+    "user_id": "6ef81c18-e628-491e-8c1b-885f4be52b09"
+  },
+  {
+    "name": "ram",
+    "password": "ram1234",
+    "hashed_password": "$2a$10$t8NBv495WfwySz27yk8mxOH2lHUKgsV7NEPHTrC2ncptALpjMwtga",
+    "tickets_booked": [],
+    "user_id": "1f0ff578-31bb-4801-85c4-38a67523fd58"
+  }
+]
